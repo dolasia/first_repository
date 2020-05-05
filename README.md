@@ -1,2 +1,3 @@
 # First repository
- training tool
+
+ Training tool for Intro to github 
